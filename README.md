@@ -25,7 +25,7 @@
 
 #### PRICE LISENSI KEY :
  ```
-1 Minggu = 40.000 
+1 Minggu = 40.000 ❌ CLOSE
 1 Bulan  = 100.000
 Key Mingguan Berlaku Untuk 1 Device Saja
 Key Bulanan Bisa Berlaku Sampai Maksimal 2 Device Pemakaian
